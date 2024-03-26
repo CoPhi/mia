@@ -1,0 +1,40 @@
+//@sep:"\t"
+//@ws:"/_| /"
+//@codepoint:"/\\u[0-9A-Fa-f]{4}/"
+//@empty:"#*#"
+//@quot:"/\\'|\\\"/"
+//@nl:"\n"
+ï	i
+ai	e
+aí	e
+ei	i
+eí	i
+eya	eva
+eye	eve
+eyo	evo
+eyi	evi
+oy	u
+oi	i
+y	i
+nt	/n?(t|d)/
+ nt	 d
+mp	/m?(p|b)/
+ mp	 b
+k	c
+kai	che
+caí	che
+caì	che
+kaì	che
+kaí 	che_
+ke	che
+kè	che
+ki	chi
+kí	che
+tz	ç
+ là 	 la_
+ ntè 	 de_
+ fà 	 fa_
+{	#*#
+}	#*#
+<	#*#
+>	#*#
