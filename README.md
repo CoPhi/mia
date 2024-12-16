@@ -3,10 +3,11 @@ The package aims to convert .docx files into xml-TEI.
 These scripts are tailored on greek alphabet to latin alphabet texts but the pack will be optimized for hebrew arabic-syriac texts. 
 
 AUTHORS
+
 Federico Boschetti, Giulia Re
 
 CONTENTS
-The pack contains: 
+
 *1_installer*: installs py libraries, imports file path and imports Transcoder, opens renamed file.
 
 *2_layout_creator*: opens the file and splits it into lines.
